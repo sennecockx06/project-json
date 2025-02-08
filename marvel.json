@@ -25,7 +25,7 @@
     "age": 48,
     "isActive": false,
     "birthDate": "1975-05-29",
-    "imageUrl": "https://example.com/images/iron-man.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/ironman.jpg",
     "affiliation": "Hero",
     "abilities": ["Genius Intellect", "Powered Armor", "Advanced Weaponry"],
     "team": {
@@ -44,7 +44,7 @@
     "age": 105,
     "isActive": true,
     "birthDate": "1918-07-04",
-    "imageUrl": "https://example.com/images/captain-america.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/refs/heads/main/assets/cap.webp",
     "affiliation": "Hero",
     "abilities": ["Super Strength", "Enhanced Reflexes", "Tactical Genius"],
     "team": {
@@ -63,7 +63,7 @@
     "age": 38,
     "isActive": true,
     "birthDate": "1985-04-10",
-    "imageUrl": "https://example.com/images/daredevil.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/daredevil.png",
     "affiliation": "Hero",
     "abilities": ["Enhanced Senses", "Acrobatics", "Martial Arts"],
     "team": {
@@ -82,7 +82,7 @@
     "age": 1000,
     "isActive": false,
     "birthDate": "1025-01-01",
-    "imageUrl": "https://example.com/images/thanos.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/refs/heads/main/assets/thanos.webp",
     "affiliation": "Villain",
     "abilities": ["Super Strength", "Cosmic Energy Manipulation", "Immortality"],
     "team": {
@@ -101,7 +101,7 @@
     "age": 1500,
     "isActive": true,
     "birthDate": "0525-06-30",
-    "imageUrl": "https://example.com/images/thor.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/thor.jpg",
     "affiliation": "Hero",
     "abilities": ["Super Strength", "Lightning Manipulation", "Immortality"],
     "team": {
@@ -120,7 +120,7 @@
     "age": 1050,
     "isActive": true,
     "birthDate": "0975-12-17",
-    "imageUrl": "https://example.com/images/loki.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/loki.png",
     "affiliation": "Villain",
     "abilities": ["Illusion Casting", "Shapeshifting", "Magic"],
     "team": {
@@ -139,7 +139,7 @@
     "age": 50,
     "isActive": true,
     "birthDate": "1973-07-04",
-    "imageUrl": "https://example.com/images/doctor-doom.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/drdoom.jpg",
     "affiliation": "Villain",
     "abilities": ["Genius Intellect", "Magic", "Powered Armor"],
     "team": {
@@ -158,7 +158,7 @@
     "age": 45,
     "isActive": true,
     "birthDate": "1978-06-12",
-    "imageUrl": "https://example.com/images/kingpin.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/kingpin.png",
     "affiliation": "Villain",
     "abilities": ["Genius Intellect", "Master Strategist", "Peak Human Strength"],
     "team": {
@@ -177,7 +177,7 @@
     "age": 45,
     "isActive": true,
     "birthDate": "1980-07-10",
-    "imageUrl": "https://example.com/images/taskmaster.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/assets/taskmaster.jpg",
     "affiliation": "Villain",
     "abilities": ["Mimicry", "Master Combatant", "Weapon Proficiency"],
     "team": {
