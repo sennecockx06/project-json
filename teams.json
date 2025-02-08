@@ -5,7 +5,7 @@
       "leader": "Captain America",
       "base": "Stark Tower",
       "foundedYear": 1963,
-      "imageUrl": "https://example.com/images/avengers.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/teams-assets/avengers.jpg",
       "members": [
         "Spider-Man",
         "Iron Man",
@@ -19,7 +19,7 @@
       "leader": "Daredevil",
       "base": "Hell's Kitchen",
       "foundedYear": 2010,
-      "imageUrl": "https://example.com/images/defenders.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/refs/heads/main/teams-assets/defenders.webp",
       "members": [
         "Daredevil"
       ]
@@ -30,7 +30,7 @@
       "leader": "Thanos",
       "base": "Sanctuary II",
       "foundedYear": 2012,
-      "imageUrl": "https://example.com/images/black-order.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/refs/heads/main/teams-assets/blackorder.webp",
       "members": [
         "Thanos"
       ]
@@ -41,7 +41,7 @@
       "leader": "Odin",
       "base": "Asgard",
       "foundedYear": "Ancient",
-      "imageUrl": "https://example.com/images/asgard.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/teams-assets/asgardians.jpg",
       "members": [
         "Loki",
         "Thor"
@@ -53,7 +53,7 @@
       "leader": "Doctor Doom",
       "base": "Latveria",
       "foundedYear": 1962,
-      "imageUrl": "https://example.com/images/dooms-empire.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/teams-assets/doomsempire.png",
       "members": [
         "Doctor Doom"
       ]
@@ -64,7 +64,7 @@
       "leader": "Kingpin",
       "base": "New York City",
       "foundedYear": 1985,
-      "imageUrl": "https://example.com/images/criminal-empire.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/teams-assets/criminalempire.png",
       "members": [
         "Kingpin"
       ]
@@ -75,7 +75,7 @@
       "leader": "Baron Zemo",
       "base": "Various Locations",
       "foundedYear": 1991,
-      "imageUrl": "https://example.com/images/masters-of-evil.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/teams-assets/masterofevil.png",
       "members": [
         "Taskmaster"
       ]
