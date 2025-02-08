@@ -6,7 +6,7 @@
     "age": 25,
     "isActive": true,
     "birthDate": "1998-08-10",
-    "imageUrl": "https://example.com/images/spider-man.jpg",
+    "imageUrl": "/home/node/project-json/spiderman.webp",
     "affiliation": "Hero",
     "abilities": ["Wall-Crawling", "Super Strength", "Spider-Sense"],
     "team": {

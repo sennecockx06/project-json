@@ -1,0 +1,84 @@
+[
+    {
+      "id": "TEAM-001",
+      "name": "Avengers",
+      "leader": "Captain America",
+      "base": "Stark Tower",
+      "foundedYear": 1963,
+      "imageUrl": "https://example.com/images/avengers.jpg",
+      "members": [
+        "Spider-Man",
+        "Iron Man",
+        "Captain America",
+        "Thor"
+      ]
+    },
+    {
+      "id": "TEAM-002",
+      "name": "Defenders",
+      "leader": "Daredevil",
+      "base": "Hell's Kitchen",
+      "foundedYear": 2010,
+      "imageUrl": "https://example.com/images/defenders.jpg",
+      "members": [
+        "Daredevil"
+      ]
+    },
+    {
+      "id": "TEAM-003",
+      "name": "Black Order",
+      "leader": "Thanos",
+      "base": "Sanctuary II",
+      "foundedYear": 2012,
+      "imageUrl": "https://example.com/images/black-order.jpg",
+      "members": [
+        "Thanos"
+      ]
+    },
+    {
+      "id": "TEAM-004",
+      "name": "Asgardians",
+      "leader": "Odin",
+      "base": "Asgard",
+      "foundedYear": "Ancient",
+      "imageUrl": "https://example.com/images/asgard.jpg",
+      "members": [
+        "Loki",
+        "Thor"
+      ]
+    },
+    {
+      "id": "TEAM-006",
+      "name": "Doom's Empire",
+      "leader": "Doctor Doom",
+      "base": "Latveria",
+      "foundedYear": 1962,
+      "imageUrl": "https://example.com/images/dooms-empire.jpg",
+      "members": [
+        "Doctor Doom"
+      ]
+    },
+    {
+      "id": "TEAM-007",
+      "name": "Criminal Empire",
+      "leader": "Kingpin",
+      "base": "New York City",
+      "foundedYear": 1985,
+      "imageUrl": "https://example.com/images/criminal-empire.jpg",
+      "members": [
+        "Kingpin"
+      ]
+    },
+    {
+      "id": "TEAM-008",
+      "name": "Masters of Evil",
+      "leader": "Baron Zemo",
+      "base": "Various Locations",
+      "foundedYear": 1991,
+      "imageUrl": "https://example.com/images/masters-of-evil.jpg",
+      "members": [
+        "Taskmaster"
+      ]
+    }
+  ]
+  
