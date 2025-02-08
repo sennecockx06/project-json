@@ -6,7 +6,7 @@
     "age": 25,
     "isActive": true,
     "birthDate": "1998-08-10",
-    "imageUrl": "/home/node/project-json/assets/spiderman.webp",
+    "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/refs/heads/main/assets/spiderman.webp",
     "affiliation": "Hero",
     "abilities": ["Wall-Crawling", "Super Strength", "Spider-Sense"],
     "team": {
