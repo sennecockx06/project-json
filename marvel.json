@@ -1,117 +1,192 @@
 [
-    {
-      "id": "MARVEL-001",
-      "name": "Spider-Man",
-      "description": "A hero with spider-like abilities, known for his agility, strength, and web-shooting skills.",
-      "age": 25,
-      "isActive": true,
-      "birthDate": "1998-08-10",
-      "imageUrl": "https://example.com/images/spider-man.jpg",
-      "affiliation": "Hero",
-      "abilities": ["Wall-Crawling", "Super Strength", "Spider-Sense"],
-      "team": {
-        "id": "TEAM-001",
-        "name": "Avengers",
-        "leader": "Captain America",
-        "base": "Stark Tower",
-        "foundedYear": 1963,
-        "imageUrl": "https://example.com/images/avengers.jpg"
-      }
-    },
-    {
-      "id": "MARVEL-002",
-      "name": "Iron Man",
-      "description": "A billionaire genius who fights crime using his advanced armored suits.",
-      "age": 48,
-      "isActive": false,
-      "birthDate": "1975-05-29",
-      "imageUrl": "https://example.com/images/iron-man.jpg",
-      "affiliation": "Hero",
-      "abilities": ["Genius Intellect", "Powered Armor", "Advanced Weaponry"],
-      "team": {
-        "id": "TEAM-001",
-        "name": "Avengers",
-        "leader": "Captain America",
-        "base": "Stark Tower",
-        "foundedYear": 1963,
-        "imageUrl": "https://example.com/images/avengers.jpg"
-      }
-    },
-    {
-      "id": "MARVEL-003",
-      "name": "Captain America",
-      "description": "A super soldier from World War II, fighting for justice with his indestructible shield.",
-      "age": 105,
-      "isActive": true,
-      "birthDate": "1918-07-04",
-      "imageUrl": "https://example.com/images/captain-america.jpg",
-      "affiliation": "Hero",
-      "abilities": ["Super Strength", "Enhanced Reflexes", "Tactical Genius"],
-      "team": {
-        "id": "TEAM-001",
-        "name": "Avengers",
-        "leader": "Captain America",
-        "base": "Stark Tower",
-        "foundedYear": 1963,
-        "imageUrl": "https://example.com/images/avengers.jpg"
-      }
-    },
-    {
-      "id": "MARVEL-004",
-      "name": "Daredevil",
-      "description": "A blind lawyer with heightened senses and exceptional fighting skills.",
-      "age": 38,
-      "isActive": true,
-      "birthDate": "1985-04-10",
-      "imageUrl": "https://example.com/images/daredevil.jpg",
-      "affiliation": "Hero",
-      "abilities": ["Enhanced Senses", "Acrobatics", "Martial Arts"],
-      "team": {
-        "id": "TEAM-002",
-        "name": "Defenders",
-        "leader": "Daredevil",
-        "base": "Hell's Kitchen",
-        "foundedYear": 2010,
-        "imageUrl": "https://example.com/images/defenders.jpg"
-      }
-    },
-    {
-      "id": "MARVEL-005",
-      "name": "Thanos",
-      "description": "A cosmic warlord seeking to bring balance to the universe through destruction.",
-      "age": 1000,
-      "isActive": false,
-      "birthDate": "1025-01-01",
-      "imageUrl": "https://example.com/images/thanos.jpg",
-      "affiliation": "Villain",
-      "abilities": ["Super Strength", "Cosmic Energy Manipulation", "Immortality"],
-      "team": {
-        "id": "TEAM-003",
-        "name": "Black Order",
-        "leader": "Thanos",
-        "base": "Sanctuary II",
-        "foundedYear": 2012,
-        "imageUrl": "https://example.com/images/black-order.jpg"
-      }
-    },
-    {
-      "id": "MARVEL-006",
-      "name": "Thor",
-      "description": "The Norse God of Thunder, wielding the mighty Mjolnir.",
-      "age": 1500,
-      "isActive": true,
-      "birthDate": "0525-06-30",
-      "imageUrl": "https://example.com/images/thor.jpg",
-      "affiliation": "Hero",
-      "abilities": ["Super Strength", "Lightning Manipulation", "Immortality"],
-      "team": {
-        "id": "TEAM-001",
-        "name": "Avengers",
-        "leader": "Captain America",
-        "base": "Stark Tower",
-        "foundedYear": 1963,
-        "imageUrl": "https://example.com/images/avengers.jpg"
-      }
+  {
+    "id": "MARVEL-001",
+    "name": "Spider-Man",
+    "description": "A hero with spider-like abilities, known for his agility, strength, and web-shooting skills.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1998-08-10",
+    "imageUrl": "https://example.com/images/spider-man.jpg",
+    "affiliation": "Hero",
+    "abilities": ["Wall-Crawling", "Super Strength", "Spider-Sense"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Avengers",
+      "leader": "Captain America",
+      "base": "Stark Tower",
+      "foundedYear": 1963,
+      "imageUrl": "https://example.com/images/avengers.jpg"
     }
-  ]
-  
+  },
+  {
+    "id": "MARVEL-002",
+    "name": "Iron Man",
+    "description": "A billionaire genius who fights crime using his advanced armored suits.",
+    "age": 48,
+    "isActive": false,
+    "birthDate": "1975-05-29",
+    "imageUrl": "https://example.com/images/iron-man.jpg",
+    "affiliation": "Hero",
+    "abilities": ["Genius Intellect", "Powered Armor", "Advanced Weaponry"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Avengers",
+      "leader": "Captain America",
+      "base": "Stark Tower",
+      "foundedYear": 1963,
+      "imageUrl": "https://example.com/images/avengers.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-003",
+    "name": "Captain America",
+    "description": "A super soldier from World War II, fighting for justice with his indestructible shield.",
+    "age": 105,
+    "isActive": true,
+    "birthDate": "1918-07-04",
+    "imageUrl": "https://example.com/images/captain-america.jpg",
+    "affiliation": "Hero",
+    "abilities": ["Super Strength", "Enhanced Reflexes", "Tactical Genius"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Avengers",
+      "leader": "Captain America",
+      "base": "Stark Tower",
+      "foundedYear": 1963,
+      "imageUrl": "https://example.com/images/avengers.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-004",
+    "name": "Daredevil",
+    "description": "A blind lawyer with heightened senses and exceptional fighting skills.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1985-04-10",
+    "imageUrl": "https://example.com/images/daredevil.jpg",
+    "affiliation": "Hero",
+    "abilities": ["Enhanced Senses", "Acrobatics", "Martial Arts"],
+    "team": {
+      "id": "TEAM-002",
+      "name": "Defenders",
+      "leader": "Daredevil",
+      "base": "Hell's Kitchen",
+      "foundedYear": 2010,
+      "imageUrl": "https://example.com/images/defenders.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-005",
+    "name": "Thanos",
+    "description": "A cosmic warlord seeking to bring balance to the universe through destruction.",
+    "age": 1000,
+    "isActive": false,
+    "birthDate": "1025-01-01",
+    "imageUrl": "https://example.com/images/thanos.jpg",
+    "affiliation": "Villain",
+    "abilities": ["Super Strength", "Cosmic Energy Manipulation", "Immortality"],
+    "team": {
+      "id": "TEAM-003",
+      "name": "Black Order",
+      "leader": "Thanos",
+      "base": "Sanctuary II",
+      "foundedYear": 2012,
+      "imageUrl": "https://example.com/images/black-order.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-006",
+    "name": "Thor",
+    "description": "The Norse God of Thunder, wielding the mighty Mjolnir.",
+    "age": 1500,
+    "isActive": true,
+    "birthDate": "0525-06-30",
+    "imageUrl": "https://example.com/images/thor.jpg",
+    "affiliation": "Hero",
+    "abilities": ["Super Strength", "Lightning Manipulation", "Immortality"],
+    "team": {
+      "id": "TEAM-001",
+      "name": "Avengers",
+      "leader": "Captain America",
+      "base": "Stark Tower",
+      "foundedYear": 1963,
+      "imageUrl": "https://example.com/images/avengers.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-007",
+    "name": "Loki",
+    "description": "The God of Mischief, known for his cunning and illusion magic.",
+    "age": 1050,
+    "isActive": true,
+    "birthDate": "0975-12-17",
+    "imageUrl": "https://example.com/images/loki.jpg",
+    "affiliation": "Villain",
+    "abilities": ["Illusion Casting", "Shapeshifting", "Magic"],
+    "team": {
+      "id": "TEAM-004",
+      "name": "Asgardians",
+      "leader": "Odin",
+      "base": "Asgard",
+      "foundedYear": "Ancient",
+      "imageUrl": "https://example.com/images/asgard.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-008",
+    "name": "Doctor Doom",
+    "description": "A brilliant scientist and sorcerer, ruler of Latveria.",
+    "age": 50,
+    "isActive": true,
+    "birthDate": "1973-07-04",
+    "imageUrl": "https://example.com/images/doctor-doom.jpg",
+    "affiliation": "Villain",
+    "abilities": ["Genius Intellect", "Magic", "Powered Armor"],
+    "team": {
+      "id": "TEAM-006",
+      "name": "Doom's Empire",
+      "leader": "Doctor Doom",
+      "base": "Latveria",
+      "foundedYear": 1962,
+      "imageUrl": "https://example.com/images/dooms-empire.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-009",
+    "name": "Kingpin",
+    "description": "A powerful crime lord who controls the underworld with his intelligence and brute strength.",
+    "age": 45,
+    "isActive": true,
+    "birthDate": "1978-06-12",
+    "imageUrl": "https://example.com/images/kingpin.jpg",
+    "affiliation": "Villain",
+    "abilities": ["Genius Intellect", "Master Strategist", "Peak Human Strength"],
+    "team": {
+      "id": "TEAM-007",
+      "name": "Criminal Empire",
+      "leader": "Kingpin",
+      "base": "New York City",
+      "foundedYear": 1985,
+      "imageUrl": "https://example.com/images/criminal-empire.jpg"
+    }
+  },
+  {
+    "id": "MARVEL-010",
+    "name": "Taskmaster",
+    "description": "A mercenary with the ability to mimic any combat skill he observes, making him a dangerous opponent.",
+    "age": 45,
+    "isActive": true,
+    "birthDate": "1980-07-10",
+    "imageUrl": "https://example.com/images/taskmaster.jpg",
+    "affiliation": "Villain",
+    "abilities": ["Mimicry", "Master Combatant", "Weapon Proficiency"],
+    "team": {
+      "id": "TEAM-008",
+      "name": "Masters of Evil",
+      "leader": "Baron Zemo",
+      "base": "Various Locations",
+      "foundedYear": 1991,
+      "imageUrl": "https://example.com/images/masters-of-evil.jpg"
+    }
+  }  
+]
