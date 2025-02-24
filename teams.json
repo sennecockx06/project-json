@@ -40,7 +40,7 @@
       "name": "Asgardians",
       "leader": "Odin",
       "base": "Asgard",
-      "foundedYear": "Ancient",
+      "foundedYear": 0,
       "imageUrl": "https://raw.githubusercontent.com/sennecockx06/project-json/main/teams-assets/asgardians.jpg",
       "members": [
         "Loki",
